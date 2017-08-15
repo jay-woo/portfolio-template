@@ -3,14 +3,14 @@ This website is where I've written about my design decisions for past UX/UI proj
 
 See my portfolio in action: www.jay-woo.com
 
-![](http://i.imgur.com/R0VsGEG.png "Preview")
+[Portfolio Preview](http://i.imgur.com/R0VsGEG.png)
 
 ## How It's Made:
 
 **Tech used:** HTML, CSS, Materialize
 
 Responsive design to make sure my website is usable across a wide range of viewports (mobile to desktop)
-![Responsive Portfolio](http://imgur.com/IGTAwDs.gif)
+[Responsive GIF](http://i.imgur.com/IGTAwDs.gifv)
 
 Used Materialize for navigation features like the sidebar and the scroll tracker
 Some of the navigation features disappear for smaller viewports
