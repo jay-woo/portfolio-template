@@ -3,7 +3,7 @@ This website is where I've written about my design decisions for past UX/UI proj
 
 See my portfolio in action: www.jay-woo.com
 
-[Portfolio Preview](http://i.imgur.com/R0VsGEG.png)
+![Portfolio Preview](http://i.imgur.com/R0VsGEG.png)
 
 ## How It's Made:
 
