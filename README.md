@@ -15,7 +15,7 @@ In addition to using HTML and CSS, I used the Materialize framework to make my w
 
 For the "Work" section of my portfolio, I made the buttons responsive, as well. As the viewport gets smaller and smaller, each button takes up a greater and greater percentage of horizontal space. That way, the buttons do not become extremely tiny and, thus, difficult to read and press.
 
-![Responsive GIF 2](http://i.imgur.com/ItMtHqJ.gif)
+![Responsive GIF 2](http://i.imgur.com/GsiRvQj.gif)
 
 With regards to the visual design, Materialize made it very easy to incorporate [the basic tenets of material design](https://material.io/guidelines/). I used drop shadows throughout my website to convey a sense of depth and tangibility.
 
