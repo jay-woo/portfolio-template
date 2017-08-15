@@ -10,7 +10,7 @@ See my portfolio in action: www.jay-woo.com
 **Tech used:** HTML, CSS, Materialize
 
 Responsive design to make sure my website is usable across a wide range of viewports (mobile to desktop)
-![](http://i.imgur.com/IGTAwDs.gifv "Responsive Portfolio")
+![](http://imgur.com/IGTAwDs "Responsive Portfolio")
 
 Used Materialize for navigation features like the sidebar and the scroll tracker
 Some of the navigation features disappear for smaller viewports
