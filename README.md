@@ -7,7 +7,7 @@ See my portfolio in action: www.jay-woo.com
 
 ## How It's Made:
 
-**Tech used:** HTML, CSS, Materialize
+**Tech used:** HTML, CSS, JavaScript, [Materialize](http://materializecss.com/)
 
 In addition to using HTML and CSS, I used the Materialize framework to make my website responsive. I regularly used Google Chrome's Developer Tools to check that my website was usable across a wide range of viewports (from smartphone to desktop computer). I also used Materialize to generate navigation elements, such as the left sidebar. I made sure to hide these elements for smaller window sizes to prioritize more important information. For instance, I made sure to collapse the sidebar into a hamburger menu in the top-left corner for smaller screens, so that mobile users can easily see the main content in each page.
 
